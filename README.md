@@ -1,12 +1,13 @@
+
+
 D for C4D
 =========
 
-Port of C4D SDK R15/R16 to D Language.
+Port of C4D SDK R15 to D Language.
 ----------------------------------
 
 
 The main purpose of this project is to learn D Language.
-
 Because I am a D novice this project probably contains a lot of not optimal or corect D code.
 
 
