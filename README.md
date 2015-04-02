@@ -11,7 +11,8 @@ The main purpose of this project is to learn D Language.
 Because I am a D novice this project probably contains a lot of not optimal or corect D code.
 
 
-D for C4D currently requires at least DMD 2.066. 
+D for C4D currently requires at least [DMD 2.067](https://github.com/Remotion/dmd/releases).
+You will also need [Visual D](https://github.com/D-Programming-Language/visuald). 
 
 
 License
