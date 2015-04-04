@@ -3,11 +3,11 @@
 D for C4D
 =========
 
-Port of C4D SDK R15 to D Language.
+Port (partial) of [C4D R15/R16 API](https://developers.maxon.net/?page_id=1108) to D Language.
 ----------------------------------
 
 
-The main purpose of this project is to learn D Language.
+The main purpose of this project is to learn D Language. :)
 Because I am a D novice this project probably contains a lot of not optimal or corect D code.
 
 
